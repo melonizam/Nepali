@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NavView RecyclerView</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="science_11">Science–11</string>
+    <string name="management_11">Management–11</string>
+    <string name="humanities_11">Humanities–11</string>
+    <string name="science_12">Science–12</string>
+    <string name="management_12">Management–12</string>
+    <string name="humanities_12">Humanities–12</string>
+    <string name="bba">BBA</string>
+    <string name="bachelors_in_law">Bachelors in Law</string>
+    <string name="old_is_gold">Old is Gold</string>
+    <string name="civil_engineering">Civil Engineering</string>
+    <string name="it">IT</string>
+</resources>

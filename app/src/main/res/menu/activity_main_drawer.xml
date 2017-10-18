@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home"
+        android:id="@+id/nav_home">
+
+    </item>
+
+
+    <item android:title="@string/science_11">
+        <menu>
+            <item
+                android:id="@+id/nav_phy11"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Physics – 11 Notes" />
+            <item
+                android:id="@+id/nav_che11"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Chemistry – 11 Notes" />
+            <item
+                android:id="@+id/nav_bio11"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Biology – 11 Notes" />
+            <item
+                android:id="@+id/nav_cse11"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Computer – 11 Notes" />
+            <item
+                android:id="@+id/nav_eng11"
+                android:icon="@drawable/ic_menu_send"
+                android:title="English Notes" />
+        </menu>
+    </item>
+    <item android:title="@string/management_11">
+        <menu>
+            <item
+                android:id="@+id/nav_bus11"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Business Studies - 11 Notes" />
+            <item
+                android:id="@+id/nav_eco11"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Economics – 11 Notes" />
+            <item
+                android:id="@+id/nav_acc11"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Accountancy – 11 Notes" />
+            <item
+                android:id="@+id/nav_tt11"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Travel and Tourism – 11 Notes" />
+            <item
+                android:id="@+id/nav_eng11"
+                android:icon="@drawable/ic_menu_send"
+                android:title="English Notes" />
+            <item
+                android:id="@+id/nav_cse11"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Computer – 11 Notes" />
+            <item
+                android:id="@+id/nav_nap11"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Nepali Notes" />
+        </menu>
+    </item>
+    <item android:title="@string/humanities_11">
+        <menu>
+            <item
+                android:id="@+id/nav_eng11"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Major English – 11 Notes" />
+            <item
+                android:id="@+id/nav_soc11"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Sociology – 11 Notes" />
+            <item
+                android:id="@+id/nav_mc11"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Mass Communication – 11 Notes" />
+        </menu>
+    </item>
+    <item android:title="@string/science_12">
+        <menu>
+            <item
+                android:id="@+id/nav_phy12"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Physics – 12 Notes" />
+            <item
+                android:id="@+id/nav_che12"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Chemistry–12 Notes" />
+            <item
+                android:id="@+id/nav_bio12"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Biology – 12 Notes" />
+            <item
+                android:id="@+id/nav_eng12"
+                android:icon="@drawable/ic_menu_send"
+                android:title="English Notes" />
+            <item
+                android:id="@+id/nav_nap11"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Nepali Notes" />
+        </menu>
+    </item>
+    <item android:title="@string/management_12">
+        <menu>
+            <item
+                android:id="@+id/nav_eco12"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Economics–12 Notes" />
+            <item
+                android:id="@+id/nav_bus12"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Business Studies – 12 Notes" />
+            <item
+                android:id="@+id/nav_hom12"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Hotel Management – 12 Notes" />
+            <item
+                android:id="@+id/nav_eng12"
+                android:icon="@drawable/ic_menu_send"
+                android:title="English Notes" />
+        </menu>
+    </item>
+    <item android:title="@string/humanities_12">
+        <menu>
+            <item
+                android:id="@+id/nav_men12"
+                android:icon="@drawable/ic_menu_share"
+                android:title="MajorEnglish–12Notes" />
+        </menu>
+    </item>
+    <item android:title="@string/bba">
+        <menu>
+            <item
+                android:id="@+id/nav_engbba11"
+                android:icon="@drawable/ic_menu_share"
+                android:title="English–I" />
+        </menu>
+    </item>
+    <item >
+        <menu>
+            <item
+                android:id="@+id/nav_bil"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/bachelors_in_law" />
+        </menu>
+    </item>
+    <item android:title="@string/old_is_gold">
+        <menu>
+            <item
+                android:id="@+id/nav_phy00"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Physics Old is Gold" />
+            <item
+                android:id="@+id/nav_che00"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Chemistry Old is Gold" />
+            <item
+                android:id="@+id/nav_bio00"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Biology Old is Gold" />
+        </menu>
+    </item>
+
+</menu>
